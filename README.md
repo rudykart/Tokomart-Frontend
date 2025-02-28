@@ -23,22 +23,22 @@ Frontend Tokomart adalah aplikasi web yang dibangun menggunakan ReactJS untuk me
 
 ### Login
 
-![Daftar Produk](screenshots/login.png)
+![Daftar Produk](screenshots/login.PNG)
 
 ### Daftar Produk
 
-![Daftar Produk](screenshots/product.png)
+![Daftar Produk](screenshots/product.PNG)
 
 ### Add Product Transaction
 
-![Add Product Transaction](screenshots/add-product-transaction.png)
+![Add Product Transaction](screenshots/add-product-transaction.PNG)
 
 ### Create Transaction
 
-![create Transactions](screenshots/create-transaction.png)
+![create Transactions](screenshots/create-transaction.PNG)
 
 ### All Notification
 
-![create Transactions](screenshots/all-notification.png)
+![create Transactions](screenshots/all-notification.PNG)
 
 ---
